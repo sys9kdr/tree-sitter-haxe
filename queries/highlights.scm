@@ -87,7 +87,7 @@
   "inline"
   "interface"
   "macro"
-  "operator"
+  ;"operator"
   "overload"
   "override"
   "package"
