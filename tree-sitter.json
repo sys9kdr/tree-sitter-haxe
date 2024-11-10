@@ -8,15 +8,10 @@
       "file-types": [
         "hx"
       ],
-      "highlights": [
-        "queries/haxe/highlights.scm"
-      ],
-      "locals": [
-        "queries/haxe/locals.scm"
-      ],
-      "injections": [
-        "queries/haxe/injections.scm"
-      ],
+      "highlights": "queries/haxe/highlights.scm",
+      "injections": "queries/haxe/injections.scm",
+      "locals": "queries/haxe/locals.scm",
+      "tags": "queries/haxe/tags.scm",
       "injection-regex": "^(hx|haxe)$"
     }
   ],
