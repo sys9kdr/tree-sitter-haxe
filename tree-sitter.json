@@ -9,7 +9,13 @@
         "hx"
       ],
       "highlights": [
-        "queries/highlights.scm"
+        "queries/haxe/highlights.scm"
+      ],
+      "locals": [
+        "queries/haxe/locals.scm"
+      ],
+      "injections": [
+        "queries/haxe/injections.scm"
       ],
       "injection-regex": "^(hx|haxe)$"
     }
